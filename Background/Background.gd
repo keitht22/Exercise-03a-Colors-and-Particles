@@ -9,7 +9,7 @@ func _ready():
 
 func update_color():
 	if HUD.color_background:
-		pass
+		color = Color8(173, 181, 189)
 	else:
 		pass
 
